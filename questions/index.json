@@ -7,7 +7,7 @@
         "incorrect_answers": ["Tom Holland", "Tom cruise", "Daniel Day-Lewis"]
     },
     {
-        "category": "Books",
+        "category": "Literature",
         "difficulty": "easy",
         "question": "Who wrote the book - 'The Hunger Games'",
         "correct_answer": "Suzanne Collins",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "category": "Books",
+        "category": "Literature",
         "difficulty": "easy",
         "question": "Who wrote the Gitanjali?",
         "correct_answer": "Rabindranath Tagore",
@@ -338,7 +338,7 @@
         "incorrect_answers": ["1980", "1990", "1960"]
     },
     {
-        "category": "Books",
+        "category": "Literature",
         "difficulty": "medium",
         "question": "What is the name of Janet and Peter's dog in the book series, Secret Seven?",
         "correct_answer": "Scamper",
@@ -350,5 +350,268 @@
         "question": "If there are 32 men, 34 women and 58 children in a town, and all adults can buy a movie disc 3 times, how many movie disks can be sold?",
         "correct_answer": "198",
         "incorrect_answers": ["200", "201", "197"]
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "Who wrote Akbarnama?",
+        "correct_answer": "Abu'l-Fazl ibn Mubarak",
+        "incorrect_answers": [
+            "Akbar",
+            "Ali'l-Hazl ibn Fazeel",
+            "Sara'ibn-Hure Muhammad"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "hard",
+        "question": "What is the name of the world's first nuclear submarine?",
+        "correct_answer": "Nautilus",
+        "incorrect_answers": ["Cuttlefish", "Bonita", "Seawolf"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "easy",
+        "question": "Fill in the blank: 81 is the square of ______",
+        "correct_answer": "9",
+        "incorrect_answers": ["11", "41", "8"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which of the following country does India not share an international border with?",
+        "correct_answer": "Sri Lanka",
+        "incorrect_answers": ["Pakistan", "Bangladesh", "Nepal"]
+    },
+    {
+        "category": "General",
+        "difficulty": "hard",
+        "question": "Which country among these does not have an animal on its flag?",
+        "correct_answer": "Tuvalu",
+        "incorrect_answers": ["Moldova", "Poland", "Zambia"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "Which statue is the tallest statue in the world?",
+        "correct_answer": "Statue of Unity",
+        "incorrect_answers": [
+            "Statue of Liberty",
+            "Statue of Gautama Buddha",
+            "Christ the Redeemer"
+        ]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "hard",
+        "question": "In which of the following Harry Potter book did Dobby not make an appearance?",
+        "correct_answer": "Prisoner of Askaban",
+        "incorrect_answers": [
+            "Deathly Hallows",
+            "Chamber of Secrets",
+            "Goblet of Fire"
+        ]
+    },
+    {
+        "category": "Games",
+        "difficulty": "hard",
+        "question": "In the game, Minecraft, which picaxe mines the fastest?",
+        "correct_answer": "Gold Picaxe",
+        "incorrect_answers": [
+            "Dimaond Picaxe",
+            "Netherite Picaxe",
+            "Iron Picaxe"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "hard",
+        "question": "Who killed Dronacharya in the Mahabharat?",
+        "correct_answer": "Dhristadyumna",
+        "incorrect_answers": ["Ashwathama", "Bhishma", "Arjun"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "medium",
+        "question": "In the bollywood film Tiger Zinda Hai, how many Indian nurses were kidnapped?",
+        "correct_answer": "25",
+        "incorrect_answers": ["15", "20", "30"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "Which of the following elements doesn't have the valency 3?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Nitrogen", "Boron", "Carbon"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "Which organ is the largest organ in the human body?",
+        "correct_answer": "Skin",
+        "incorrect_answers": ["Small Intestine", "Liver", "Lungs"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "medium",
+        "question": "Find 'x' - x/2 + 34 = 742",
+        "correct_answer": "1416",
+        "incorrect_answers": ["742", "1002", "1415"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which IPL cricket team was the first to win 100 matches?",
+        "correct_answer": "Mumbai Indians",
+        "incorrect_answers": [
+            "Chennai Super Kings",
+            "Kolkata Knight Riders",
+            "Sunrisers Hyderabad"
+        ]
+    },
+    {
+        "category": "Music",
+        "difficulty": "hard",
+        "question": "Which of the following songs isn't sung by Sonu Nigam?",
+        "correct_answer": "Lahore",
+        "incorrect_answers": [
+            "Bhagwan hai kahan re tuh",
+            "Jaane nahi denge tujhe",
+            "God Allah aur Bhagwan"
+        ]
+    },
+    {
+        "category": "Music",
+        "difficulty": "medium",
+        "question": "What is the beat called in Indian classical music?",
+        "correct_answer": "Taal",
+        "incorrect_answers": ["Raag", "Ragam", "Gavind"]
+    },
+    {
+        "category": "Music",
+        "difficulty": "hard",
+        "question": "Which musical instrument does Zakir Hussain play?",
+        "correct_answer": "Tabla",
+        "incorrect_answers": ["Sitar", "Harmonium", "Harmonica"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "medium",
+        "question": "The Lion King' is a movie loosely inspired by which of Shakespeare's dramas?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+            "Macbeth",
+            "Merchant of Venice",
+            "Romeo and Juliet"
+        ]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "hard",
+        "question": "How many times was J K Rowling's pitch for 'Harry Potter' rejected by publishers?",
+        "correct_answer": "12",
+        "incorrect_answers": ["10", "0", "11"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "hard",
+        "question": "When was Stephen King born?",
+        "correct_answer": "21st September",
+        "incorrect_answers": ["16th July", "14th May", "10th December"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "easy",
+        "question": "In which year did the first Harry Potter book release?",
+        "correct_answer": "2001",
+        "incorrect_answers": ["2000", "1999", "2003"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "medium",
+        "question": "Who played the role of Edward Cullen in 'The Twilight Saga'?",
+        "correct_answer": "Robert Pattinson.",
+        "incorrect_answers": [
+            "Tom Pattinson",
+            "Romeon Patt",
+            "Robert Patternson"
+        ]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "easy",
+        "question": "Who wrote the Panchanchantra?",
+        "correct_answer": "Vishnu Sharma",
+        "incorrect_answers": ["Kalidasa", "Rabindranath Tagore", "Aryan Sen"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which of the following is not a code-editor?",
+        "correct_answer": "Electron",
+        "incorrect_answers": ["Visual Studio Code", "PyCharm", "Sublime Text"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "Who is known as the 'Father of Computing'?",
+        "correct_answer": "Charles Babbage",
+        "incorrect_answers": ["Bill Gates", "Ada Lovelace", "Blaise Pascal"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of the following names is NOT an Android OS name?",
+        "correct_answer": "Biscuit",
+        "incorrect_answers": ["KitKat", "Lollipop", "Donut"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Who is the CEO of Apple as of 2021?",
+        "correct_answer": "Tim Cook",
+        "incorrect_answers": ["Steve Jobs", "Larry Page", "Sundar Pichai"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "If you were coding by only writing 1 and 0, what are you coding?",
+        "correct_answer": "Binary",
+        "incorrect_answers": ["Java", "Lua", "Python"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which of the following is not made by Facebook?",
+        "correct_answer": "Flutter",
+        "incorrect_answers": ["React.js", "PyTorch", "React Native"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "What does Google not provide in the following?",
+        "correct_answer": "Bixby Assisstant",
+        "incorrect_answers": ["Glass OS", "reCAPTCHA", "Chromecast"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "easy",
+        "question": "Who gave Bishma the boon that he would die only when he wishes?",
+        "correct_answer": "Shantanu",
+        "incorrect_answers": ["Dushala", "Krishna", "Ganga"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "Who gave Bishma the boon that he would die only when he wishes?",
+        "correct_answer": "Shantanu",
+        "incorrect_answers": ["Dushala", "Krishna", "Ganga"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "Who vowed to kill Bishma in her next birth?",
+        "correct_answer": "Amba",
+        "incorrect_answers": ["Ambika", "Ambaalika", "Indradev"]
     }
 ]
