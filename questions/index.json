@@ -109,7 +109,7 @@
         "incorrect_answers": ["100", "209", "187"]
     },
     {
-        "category": "Science",
+        "category": "History",
         "difficulty": "hard",
         "question": "In which year did Mahatma Gandhi go to South Africa?",
         "correct_answer": "1893",
