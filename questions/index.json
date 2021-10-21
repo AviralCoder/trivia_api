@@ -1,0 +1,291 @@
+[
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who played the role of Harry Potter in the movie series of Harry Potter?",
+        "correct_answer": "Daniel Radcliffe",
+        "incorrect_answers": ["Tom Holland", "Tom cruise", "Daniel Day-Lewis"]
+    },
+    {
+        "category": "Books",
+        "difficulty": "easy",
+        "question": "Who wrote the book - 'The Hunger Games'",
+        "correct_answer": "Suzanne Collins",
+        "incorrect_answers": ["JK Rowling", "Toni Morrison", "James Patterson"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "What is the symbol of distance?",
+        "correct_answer": "S",
+        "incorrect_answers": ["D", "I", "T"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "In which Indian state does the river Ganga NOT flow in?",
+        "correct_answer": "Maharashtra",
+        "incorrect_answers": ["Bihar", "Chhattisgarh", "Uttar Pradesh"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who played the role of Ravi in the 1982 bollywood film, Satte pe Satta?",
+        "correct_answer": "Amitabh Bachchan",
+        "incorrect_answers": ["Shakti Kapoor", "Amjad Khan", "Sanjeev Kumar"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who played the role of Kabir in the 2019 bollywood film, War?",
+        "correct_answer": "Hrithik Roshan",
+        "incorrect_answers": [
+            "Tiger Shroff",
+            "Abhishekh Bachchan",
+            "Shah Rukh Khan"
+        ]
+    },
+    {
+        "category": "Music",
+        "difficulty": "easy",
+        "question": "Which singer sung the bollywood song, Khairiyat?",
+        "correct_answer": "Arijit Singh",
+        "incorrect_answers": ["AR Rahman", "Tony Kakkar", "Tushar Joshi"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Which film is the highest grossing film, AS OF 2019?",
+        "correct_answer": "Avengers: Endgame",
+        "incorrect_answers": ["Avatar", "Frozen", "Black Panther"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What is a speculative structure linking disparate points in spacetime?",
+        "correct_answer": "Wormholes",
+        "incorrect_answers": ["Supernova", "Black Hole", "Galaxy"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "medium",
+        "question": "What is the symbol of Mercury?",
+        "correct_answer": "Hg",
+        "incorrect_answers": ["Fe", "Me", "Mr"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "Who is the mother of Sati (wife of Lord Shiva) in the Hindu mythology?",
+        "correct_answer": "Daksha Prajapati",
+        "incorrect_answers": ["Sita", "Kubera", "Himavan"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "Which of these is not a social media platform?",
+        "correct_answer": "Chrome",
+        "incorrect_answers": ["Facbook", "Twitter", "Instagram"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which of these is not a statically typed language?",
+        "correct_answer": "TypeScript",
+        "incorrect_answers": ["JavaScript", "Python", "Lua"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "How many elements exist?",
+        "correct_answer": "118",
+        "incorrect_answers": ["100", "209", "187"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "How many elements exist?",
+        "correct_answer": "118",
+        "incorrect_answers": ["100", "209", "187"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "In which year did Mahatma Gandhi go to South Africa?",
+        "correct_answer": "1893",
+        "incorrect_answers": ["1901", "1919", "1894"]
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "In which year did Mahatma Gandhi go to South Africa?",
+        "correct_answer": "1893",
+        "incorrect_answers": ["1901", "1919", "1894"]
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "In which year was Bhagat Singh hanged?",
+        "correct_answer": "1931",
+        "incorrect_answers": ["1930", "1932", "1940"]
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Who did Alauddin Khalji kill to become the Sultan of the Delhi Sultanate?",
+        "correct_answer": "Jalaluddin Firuz Khalji",
+        "incorrect_answers": [
+            "Shamsuddin Khalji",
+            "Qutb ad-Din Mubarak",
+            "Shihab ad-Din Umar"
+        ]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "Who played the lead role in the bollywood film, Gabbar is Back?",
+        "correct_answer": "Akshay Kumar",
+        "incorrect_answers": [
+            "Amitabh Bachchan",
+            "Salman Khan",
+            "Ranveer Singh"
+        ]
+    },
+    {
+        "category": "Books",
+        "difficulty": "easy",
+        "question": "Who wrote the Gitanjali?",
+        "correct_answer": "Rabindranath Tagore",
+        "incorrect_answers": ["R.K. Narayan", "Sri Aurobindo", "Sarojini Naidu"]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What is the 'Hello' in Hindi?",
+        "correct_answer": "Namaste",
+        "incorrect_answers": ["Shukriya", "Dhanyavad", "Alvida"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the longest waterfall on Earth?",
+        "correct_answer": "Angel Falls",
+        "incorrect_answers": ["Hero Falls", "High Falls", "Tugela Falls"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "easy",
+        "question": "Who killed Duryodhan in the Mahabharat?",
+        "correct_answer": "Bhim",
+        "incorrect_answers": ["Arjun", "Yudhishthir", "Nakula"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which company made the coding languages, Dart, Golang and Kotlin?",
+        "correct_answer": "Google",
+        "incorrect_answers": ["Apple", "Microsoft", "Facebook"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "Which of the following is not a member of the vitamin B complex?",
+        "correct_answer": "Ascorbic acid",
+        "incorrect_answers": ["Thiamine", "Riboflavin", "Folic acid"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "Which of the these is an air-borne disease?",
+        "correct_answer": "Measles",
+        "incorrect_answers": ["Typhoid", "Pink eye", "None"]
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "Which of the following pair is not a father-son pair?",
+        "correct_answer": "Akbar-Aurangzeb",
+        "incorrect_answers": [
+            "Babur-Humayun",
+            "Akbar-Jahangir",
+            "Jahangir-Shah Jahan"
+        ]
+    },
+    {
+        "category": "Music",
+        "difficulty": "easy",
+        "question": "Who is the female singer in the song, Lovely?",
+        "correct_answer": "Billie Eilish",
+        "incorrect_answers": ["Selena Gomez", "Lady Gaga", "Shania Twain"]
+    },
+    {
+        "category": "Music",
+        "difficulty": "hard",
+        "question": "How many ragas are there in indian classical music?",
+        "correct_answer": "83",
+        "incorrect_answers": ["93", "84", "87"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "Which film is the highest grossing Indian film with a worldwide gross of almost ₹2,024 crore?",
+        "correct_answer": "Dangal",
+        "incorrect_answers": ["PK", "3 idiots", "Krrish 3"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "easy",
+        "question": "Which of the following bone is the longest bone in the human body?",
+        "correct_answer": "Femur",
+        "incorrect_answers": ["Fibula", "Spinal Cord", "Skin"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "In which yuga did the Ramayan take place in, in the Hindu Mythology??",
+        "correct_answer": "Treta",
+        "incorrect_answers": ["Dwapar", "Kalyug", "Balyug"]
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Who put Shah Jahan in prison?",
+        "correct_answer": "Aurangazeb",
+        "incorrect_answers": ["Shivaji", "Akbar", "Rana Sanga"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "Which of the following planets is NOT a dwarf planet?",
+        "correct_answer": "Kepler-452b",
+        "incorrect_answers": ["Eris", "Pluto", "Ceres"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which country reached Mars at its first attempt?",
+        "correct_answer": "India",
+        "incorrect_answers": ["USA", "Russia", "China"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "How much percent of the total mass of the Solar System does the Sun take?",
+        "correct_answer": "99.86%",
+        "incorrect_answers": ["99.9%", "97.56%", "99.89%"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "River Hooghly located in West Bengal, India is a tributary of which river?",
+        "correct_answer": "Ganga",
+        "incorrect_answers": ["Narmada", "Godavari", "Kaveri"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "River Hooghly located in West Bengal, India is a tributary of which river?",
+        "correct_answer": "Ganga",
+        "incorrect_answers": ["Narmada", "Godavari", "Kaveri"]
+    }
+]
