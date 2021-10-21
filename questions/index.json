@@ -159,7 +159,7 @@
         "incorrect_answers": ["R.K. Narayan", "Sri Aurobindo", "Sarojini Naidu"]
     },
     {
-        "category": "General Knowledge",
+        "category": "General",
         "difficulty": "easy",
         "question": "What is the 'Hello' in Hindi?",
         "correct_answer": "Namaste",
