@@ -2,7 +2,7 @@
 
 An API that has questions that can easily be answered by and are expected to be answered by Indians.
 
-## Docs
+# Docs
 
 Random Question (1) of random type - `https://trivia-api-kbg.herokuapp.com/questions/random`
 
