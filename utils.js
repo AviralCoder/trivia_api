@@ -1,10 +1,10 @@
 const questions = require("./questions/index.json");
 
-function randomQuestion() {
+function randomQuestion(questions) {
     return questions[Math.floor(Math.random() * questions.length)];
 }
 
-function randomNumber(questions, n) {
+function randomQuestionFunc(questions, n) {
     const limit = questions.length < n ? questions.length : n;
     const randomIndicesSet = new Set();
 
@@ -20,23 +20,25 @@ function randomNumber(questions, n) {
     });
 }
 
-function sortByCategory(category, number) {
+function sortByCategory(questions, category) {
     const filtered = questions.filter(
         (question) => question.category.toLowerCase() === category
     );
-    const array = randomNumber(filtered, number);
 
-    return array;
+    return filtered;
 }
 
-function getQuestion(number, category) {
-    return sortByCategory(category, number);
+function sortByDifficulty(questions, difficulty) {
+    const filtered = questions.filter(
+        (question) => question.difficulty.toLowerCase() === difficulty
+    );
+
+    return filtered;
 }
 
 module.exports = {
-    questions,
+    randomQuestionFunc,
     randomQuestion,
-    randomNumber,
     sortByCategory,
-    getQuestion,
+    sortByDifficulty,
 };
