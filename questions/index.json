@@ -287,5 +287,68 @@
         "question": "River Hooghly located in West Bengal, India is a tributary of which river?",
         "correct_answer": "Ganga",
         "incorrect_answers": ["Narmada", "Godavari", "Kaveri"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "In which place was Jesus Christ born?",
+        "correct_answer": "Bethlehem",
+        "incorrect_answers": ["Nazureth", "Constantinople", "Mecca"]
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "Which mughal ruler was known as an ‘engineer king’?",
+        "correct_answer": "Shah Jahan",
+        "incorrect_answers": ["Akbar", "Babur", "Jahangir"]
+    },
+    {
+        "category": "History",
+        "difficulty": "medium",
+        "question": "What was the old name of Istanbul?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": ["Mecca", "Kabul", "Constantinoble"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "hard",
+        "question": "In which year did Microsoft acquire Minecraft?",
+        "correct_answer": "2014",
+        "incorrect_answers": ["2013", "2012", "2015"]
+    },
+    {
+        "category": "History",
+        "difficulty": "hard",
+        "question": "Whose empire was the largest empire in the histort of the world at some point of time?",
+        "correct_answer": "Genghis Khan",
+        "incorrect_answers": ["Alexander", "Constantine", "Ashoka"]
+    },
+    {
+        "category": "Music",
+        "difficulty": "easy",
+        "question": "Which song is the most liked youtube video?",
+        "correct_answer": "Despacito",
+        "incorrect_answers": ["Baby Shark", "Lovely", "Alone"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "hard",
+        "question": "In which year did Iron Man and Captain America go to after failing once to get the Tessaract in 2014 in Avengers: Endgame??",
+        "correct_answer": "1970",
+        "incorrect_answers": ["1980", "1990", "1960"]
+    },
+    {
+        "category": "Books",
+        "difficulty": "medium",
+        "question": "What is the name of Janet and Peter's dog in the book series, Secret Seven?",
+        "correct_answer": "Scamper",
+        "incorrect_answers": ["Milo", "Tiger", "Loki"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "hard",
+        "question": "If there are 32 men, 34 women and 58 children in a town, and all adults can buy a movie disc 3 times, how many movie disks can be sold?",
+        "correct_answer": "198",
+        "incorrect_answers": ["200", "201", "197"]
     }
 ]
