@@ -613,5 +613,140 @@
         "question": "Who vowed to kill Bishma in her next birth?",
         "correct_answer": "Amba",
         "incorrect_answers": ["Ambika", "Ambaalika", "Indradev"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "Which international border is the longest?",
+        "correct_answer": "United States-Canada",
+        "incorrect_answers": [
+            "India-Pakistan",
+            "China-Russia",
+            "Argentina-Brazil"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "hard",
+        "question": "Who is the first Indian individual athlete to win a gold medal in the Olympics?",
+        "correct_answer": "Abhinav Bindra",
+        "incorrect_answers": ["Dhyan Chand", "Neeraj Chopra", "Kapil Dev"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "What is the meaning of the muhavra - 'Aakash Chuna'",
+        "correct_answer": "Bahut Tarakki Karna",
+        "incorrect_answers": [
+            "Mar jana",
+            "Kisiki madad karna",
+            "Havaijahas mein urna"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "easy",
+        "question": "Which account is the most followed account on Instagram?",
+        "correct_answer": "Instagram",
+        "incorrect_answers": [
+            "Virat Kohli",
+            "Cristiano Ronaldo",
+            "Lionel Messi"
+        ]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "If a boy is 'angootha chap' then what is he?",
+        "correct_answer": "Illiterate",
+        "incorrect_answers": ["Brainless", "Without thumb", "Successful"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "hard",
+        "question": "What are the words that follow the line that comes under the 'MINECRAFT' title in the homescreen of the Minecraft Game? - 'Sodium...'",
+        "correct_answer": "Free",
+        "incorrect_answers": ["is life", "KEMISTRY", "is love"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "easy",
+        "question": "Which company acquired the game 'Minecraft'?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": ["Mojang", "Reliance", "Mineees"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "easy",
+        "question": "Which of the following games can't be played online?",
+        "correct_answer": "Hill Climb Racing",
+        "incorrect_answers": ["Pubg", "Minecraft", "Roblox"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "easy",
+        "question": "Which game is the highest grossing game in the world as of 2021?",
+        "correct_answer": "Minecraft",
+        "incorrect_answers": ["Roblox", "Pokemon GO", "Pac-man"]
+    },
+    {
+        "category": "Games",
+        "difficulty": "medium",
+        "question": "What is Roblox's previous name?",
+        "correct_answer": "DynaBlox",
+        "incorrect_answers": ["I_suck", "DinaBlox", "DoodooBloox"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "medium",
+        "question": "Which of the following expressions has the lowest value?",
+        "correct_answer": "1^0",
+        "incorrect_answers": ["4/2", "2^2", "4*4"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "easy",
+        "question": "Is zero negative or positive?",
+        "correct_answer": "Neither",
+        "incorrect_answers": ["Negative", "Positive", "Both"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "hard",
+        "question": "Who is known as the father of Algebra?",
+        "correct_answer": "Muhammad ibn Musa al-Khwarizmi",
+        "incorrect_answers": ["Aryabhatta", "William Jones", "Albert Einstein"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "easy",
+        "question": "What is the value of cos 360 degree?",
+        "correct_answer": "1",
+        "incorrect_answers": ["180", "360", "-360"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "hard",
+        "question": "Who is known as the father of Trigonometry?",
+        "correct_answer": "Hipparchus",
+        "incorrect_answers": ["Aryabhatta", "Albert Einstein", "John Williams"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "medium",
+        "question": "How many zeros are there in a billion?",
+        "correct_answer": "9",
+        "incorrect_answers": ["8", "7", "10"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "hard",
+        "question": "Who discovered the number line?",
+        "correct_answer": "John Walls",
+        "incorrect_answers": [
+            "John Williams",
+            "Sara'ibn-Hure Muhammad",
+            "Albert Einstein"
+        ]
     }
 ]

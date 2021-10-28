@@ -1,5 +1,3 @@
-const questions = require("./questions/index.json");
-
 function randomQuestion(questions) {
     return questions[Math.floor(Math.random() * questions.length)];
 }
