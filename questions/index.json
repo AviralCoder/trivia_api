@@ -748,5 +748,41 @@
             "Sara'ibn-Hure Muhammad",
             "Albert Einstein"
         ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "easy",
+        "question": "Which of these prime ministers have never been the chief minister of any Indian state?",
+        "correct_answer": "Lal Bahadur Shastri",
+        "incorrect_answers": [
+            "Narendra Modi",
+            "Indira Ghandhi",
+            "Lal Bahadur Modi"
+        ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "medium",
+        "question": "The minimum age to qualify for election to the Lok Sabha is?",
+        "correct_answer": "25 years",
+        "incorrect_answers": ["20 years", "18 years", "30 years"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "hard",
+        "question": "The Muslim League as a political party was founded in .. ?",
+        "correct_answer": "1906",
+        "incorrect_answers": ["1909", "1915", "1947"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "easy",
+        "question": "Who was the chief minister of Mahrashtra during the 26/11 Mumbai terrorist attack?",
+        "correct_answer": "Vilasrao Deshmukh",
+        "incorrect_answers": [
+            "Narendra Modi",
+            "Uddhav Thackeray",
+            "Devendra Gangadharrao Fadnavis"
+        ]
     }
 ]
