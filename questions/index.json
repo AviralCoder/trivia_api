@@ -784,5 +784,94 @@
             "Uddhav Thackeray",
             "Devendra Gangadharrao Fadnavis"
         ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "medium",
+        "question": "Who is the 40th president of the United States?",
+        "correct_answer": "Ronald Reagan",
+        "incorrect_answers": ["Barack Obama", "Joe Biden", "Donald Trump"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "easy",
+        "question": "Who is the president of India as of 2019?",
+        "correct_answer": "Narendra Modi",
+        "incorrect_answers": [
+            "Manmohan Singh",
+            "Mamta Banerjee",
+            "Narendra Mori"
+        ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "medium",
+        "question": "What does the Indian Constitution's preamble not contain among these?",
+        "correct_answer": "Adult Franchise",
+        "incorrect_answers": ["Equality", "Fraternity", "Justice"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "hard",
+        "question": "What is the minimum age to become the Prime Minister of India?",
+        "correct_answer": "25 years",
+        "incorrect_answers": ["20 years", "30 years", "40 years"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "medium",
+        "question": "The office of the prime minister of India....",
+        "correct_answer": "is created by the constitution",
+        "incorrect_answers": [
+            "rests on coronation",
+            "is created by the Parliament",
+            "is created by the people of India"
+        ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "easy",
+        "question": "For how many years are the members of the state legislative elected for?",
+        "correct_answer": "5 years",
+        "incorrect_answers": ["10 years", "4 years", "No limit"]
+    },
+    {
+        "category": "General",
+        "difficulty": "easy",
+        "question": "How much would you rate this app?",
+        "correct_answer": "10/10",
+        "incorrect_answers": ["5/10", "0/10", "9/10"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Complete the words that the commentator said when M.S. Dhoni hit the last six in the 2011 World Cup Finals - 'Dhoni finishes off in ...'",
+        "correct_answer": "style",
+        "incorrect_answers": [
+            "a high six",
+            "making everyone happy",
+            "party starts in the room"
+        ]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Who was the captain of India when India won the T20 World Cup in 2007?",
+        "correct_answer": "M.S. Dhoni",
+        "incorrect_answers": ["Sachin Tendulkar", "Virat Kohli", "Yuvraj Singh"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which footballer has scored the most number of goals in international football as of 2021?",
+        "correct_answer": "Cristiano Ronaldo",
+        "incorrect_answers": ["Pele", "Lionel Messi", "Maradona"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "What is the jersey number of the hockey player Manpreet Singh?",
+        "correct_answer": "7",
+        "incorrect_answers": ["10", "19", "4"]
     }
 ]
