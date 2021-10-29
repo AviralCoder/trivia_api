@@ -90,7 +90,7 @@
     {
         "category": "Computers",
         "difficulty": "medium",
-        "question": "Which of these is not a statically typed language?",
+        "question": "Which of these is a statically typed language?",
         "correct_answer": "TypeScript",
         "incorrect_answers": ["JavaScript", "Python", "Lua"]
     },
