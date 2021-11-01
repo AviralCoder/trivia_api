@@ -13,6 +13,26 @@ An API that has questions that can easily be answered by and are expected to be 
 - Flexible Endpoints
 - Expected to be answered by Indians
 
+## Docs
+
+**Please note: Any endpoint starting with a colon : means a variable will be put there**
+
+- `/question/random` - A random question
+- `/questions/random/number/:num`- A number of random questions
+- `/questions/list` - All the questions in the API
+- `/contribute` - Shows the url that where to contribute
+- `/contribute/issues` - Shows the url where you can file issues.
+- `/questions/list/index/:index` - From the list of questions, get the question from this index.
+- `/questions/category/:category` - Get all the questions in the list of a particular category.
+- `/questions/category/:category/random` - Get a random question of a particular category
+- `/questions/category/:category/random/number/:number` - Get a number of random questions of a particular category
+- `/questions/difficulty/:difficulty` - Get all the questions in the list of a particular difficulty.
+- `/questions/difficulty/:difficulty/random`- Get a random question of any difficulty
+- `/questions/difficulty/:difficulty/random/number/:number`- Get a number of random questions of any difficulty.
+- `/questions/difficulty/:difficulty/category/:category/number/:number`- Get a number of questions of a particular difficulty and category.
+- `/questions/difficulty/:difficulty/category/:category/random` - Get a random question of any difficulty and category.
+
+
 ## Contributing
 
 **Before adding questions, please make sure about -**
