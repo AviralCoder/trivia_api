@@ -873,5 +873,69 @@
         "question": "What is the jersey number of the hockey player Manpreet Singh?",
         "correct_answer": "7",
         "incorrect_answers": ["10", "19", "4"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Who won the 2020-21 Indian Super League?",
+        "correct_answer": "Mumbai City",
+        "incorrect_answers": ["Mohun Bagan", "East Bengal", "Kerala Blasters"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "What is the national sport of India?",
+        "correct_answer": "None",
+        "incorrect_answers": ["Hockey", "Cricket", "Kabaddi"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "Which famous Indian cricketer is also known as 'Thala'?",
+        "correct_answer": "M.S. Dhoni",
+        "incorrect_answers": [
+            "Sachin Tendulkar",
+            "Virat Kohli",
+            "Harbajan Singh"
+        ]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "The earliest written reference about cricket is attributed to one John Derrick. Whilst testifying in a court case, the record has him saying that he 'played creckett' at the Royal Grammar School in Guildford. In what century was this?",
+        "correct_answer": "16th Century",
+        "incorrect_answers": ["17th Century", "18th Century", "20th Century"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which cricket player was the first player in history to score individual 200 runs in one day international?",
+        "correct_answer": "Sachin Tendulkar",
+        "incorrect_answers": ["Kapil Dev", "Chris Gayle", "M.S. Dhoni"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "medium",
+        "question": "As of 2021, which cricket player has the highest individual runs in one day international?",
+        "correct_answer": "Rohit Sharma",
+        "incorrect_answers": ["Sachin Tendulkar", "M.S. Dhoni", "Chris Gayle"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "Which cricket player has the highest runs of an Indian player in WODI?",
+        "correct_answer": "Deepti Sharma",
+        "incorrect_answers": [
+            "Dipshika Kerr",
+            "Chamari Atapattu",
+            "Harmanpreet Kaur"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "easy",
+        "question": "Who was the wife of Abhimanyu (the son of Arjun) in Mahabharat?",
+        "correct_answer": "Uttara",
+        "incorrect_answers": ["Draupadi", "Gandhari", "Kunti"]
     }
 ]
