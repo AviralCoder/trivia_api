@@ -937,5 +937,16 @@
         "question": "Who was the wife of Abhimanyu (the son of Arjun) in Mahabharat?",
         "correct_answer": "Uttara",
         "incorrect_answers": ["Draupadi", "Gandhari", "Kunti"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "medium",
+        "question": "Who was the son of Abhimanyu and Uttara and grandson of Arjun?",
+        "correct_answer": "Raja Parikshit",
+        "incorrect_answers": [
+            "Raja Prokashit",
+            "Raja Pranshit",
+            "Raja Abhimanyuputra"
+        ]
     }
 ]
