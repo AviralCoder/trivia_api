@@ -948,5 +948,12 @@
             "Raja Pranshit",
             "Raja Abhimanyuputra"
         ]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "hard",
+        "question": "Which of the following is not among the 10 names of Arjun?",
+        "correct_answer": "Veerna",
+        "incorrect_answers": ["Falguna", "Krishna", "Bhivatsa"]
     }
 ]
