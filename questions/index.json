@@ -987,5 +987,65 @@
             "14th November, 1887",
             "14th November, 1801"
         ]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "What do you call it when the computer doesn't respond to an input?",
+        "correct_answer": "Hang",
+        "incorrect_answers": ["Carash", "Bug", "Output-err"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "What is the function of the inbuilt hook in React - 'useState'?",
+        "correct_answer": "Add and manage state in components",
+        "incorrect_answers": [
+            "Check the state of the network",
+            "Use a variable named 'state'",
+            "Make a global variable"
+        ]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "easy",
+        "question": "If I am coding in a file with the extension of '.ts', which language am I coding?",
+        "correct_answer": "TypeScript",
+        "incorrect_answers": ["Transcript", "T-SQL", "TrancScript"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which key would you not be finding on a standard Windows 10 laptop",
+        "correct_answer": "Command",
+        "incorrect_answers": ["Control", "Alt", "Tab"]
+    },
+    {
+        "category": "Music",
+        "difficulty": "hard",
+        "question": "Billie Eilish is obsessed with which classic TV show?",
+        "correct_answer": "The Office",
+        "incorrect_answers": ["The Studio", "Musicize", "American Idol"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "easy",
+        "question": "Mention the exact number of sonnets written by William Shakespeare?",
+        "correct_answer": "Hinduism",
+        "incorrect_answers": ["Islam", "Sikhism", "Buddhism"]
+    },
+    {
+        "category": "General",
+        "difficulty": "easy",
+        "question": "What would you call a person who doesn't believe in the existence of God?",
+        "correct_answer": "Atheists",
+        "incorrect_answers": ["Nakutakares", "Bharubhuj", "Athereistic"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "easy",
+        "question": "Which team won the first ICC T20 World Cup?",
+        "correct_answer": "India",
+        "incorrect_answers": ["Australia", "Pakistan", "New Zealand"]
     }
 ]
