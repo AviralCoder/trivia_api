@@ -955,5 +955,37 @@
         "question": "Which of the following is not among the 10 names of Arjun?",
         "correct_answer": "Veerna",
         "incorrect_answers": ["Falguna", "Krishna", "Bhivatsa"]
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Who won the War of Kalinga?",
+        "correct_answer": "Ashoka",
+        "incorrect_answers": ["Kalingars", "Kathara", "Alauddin Khalji"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "What is the name of India's first man-made sattelite?",
+        "correct_answer": "Aryabhata",
+        "incorrect_answers": ["Astrosat", "GSAT", "TES"]
+    },
+    {
+        "category": "General",
+        "difficulty": "hard",
+        "question": "Who among the following was the first man to climb Mount Everest without supplemental oxygen?",
+        "correct_answer": "Reinhold Messner",
+        "incorrect_answers": ["Junko Tabei", "Phu Dorji", "Duncan Chessell"]
+    },
+    {
+        "category": "General",
+        "difficulty": "easy",
+        "question": "When was Jawaharlal Nehru born?",
+        "correct_answer": "14th November, 1889",
+        "incorrect_answers": [
+            "Yesterday",
+            "14th November, 1887",
+            "14th November, 1801"
+        ]
     }
 ]
