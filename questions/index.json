@@ -1047,5 +1047,44 @@
         "question": "Which team won the first ICC T20 World Cup?",
         "correct_answer": "India",
         "incorrect_answers": ["Australia", "Pakistan", "New Zealand"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "What is a group of islands called?",
+        "correct_answer": "Archipelago",
+        "incorrect_answers": ["Archepelago", "Indonesia", "Toranto"]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "hard",
+        "question": "Which of the following languages can't be used to make the main UI of mobile apps?",
+        "correct_answer": "Arduino",
+        "incorrect_answers": ["TypeScript", "JavaScript", "Dart"]
+    },
+    {
+        "category": "Movies",
+        "difficulty": "easy",
+        "question": "In the bollywood film, Dear Zindagi, what did Shah Rukh Khan give an example of when he was explaining Alia Bhatt about choosing life-partiners?",
+        "correct_answer": "Buying a chair",
+        "incorrect_answers": [
+            "Buying a rose",
+            "Buying a table",
+            "Buying a card"
+        ]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "medium",
+        "question": "Right to Information Act in India came fully into force in ____ ?",
+        "correct_answer": "October,2005",
+        "incorrect_answers": ["October,2008", "September 2009", "January 2000"]
+    },
+    {
+        "category": "Politics",
+        "difficulty": "hard",
+        "question": "Which of the following article constitute the 'Right to Life' in Indian Constitution",
+        "correct_answer": "Article 21",
+        "incorrect_answers": ["Article 16", "Article 15", "Article 14"]
     }
 ]
