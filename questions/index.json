@@ -1086,5 +1086,94 @@
         "question": "Which of the following article constitute the 'Right to Life' in Indian Constitution",
         "correct_answer": "Article 21",
         "incorrect_answers": ["Article 16", "Article 15", "Article 14"]
+    },
+    {
+        "category": "Literature",
+        "difficulty": "easy",
+        "question": "Who wrote the poem 'If'?",
+        "correct_answer": "Rudyard Kipling",
+        "incorrect_answers": [
+            "Ruskin Bond",
+            "Rabindranath Tagore",
+            "J.K. Rowling"
+        ]
+    },
+    {
+        "category": "Computers",
+        "difficulty": "medium",
+        "question": "Which of the following apps don't have a sending messages feature?",
+        "correct_answer": "Mac Notes",
+        "incorrect_answers": ["WhatsApp", "Twitter", "Telegram"]
+    },
+    {
+        "category": "Science",
+        "difficulty": "hard",
+        "question": "Choose the odd one out based on the methods of transfer of heat.",
+        "correct_answer": "Heatwave",
+        "incorrect_answers": ["Conduction", "Radiation", "Convection"]
+    },
+    {
+        "category": "History",
+        "difficulty": "easy",
+        "question": "Choose the order of the dynasties who ruled the Delhi Sultanate.",
+        "correct_answer": "Mamluk-Khalji-Tughlaq-Sayyid-Lodi",
+        "incorrect_answers": [
+            "Mamluk-Sayyid-Khalji-Lodi-Tughlaq",
+            "Khalji-Tughlaq-Mamluk-Sayyid-Lodi",
+            "Mamluk-Sayyid-Tughlaq-Khalji-Lodi"
+        ]
+    },
+    {
+        "category": "Games",
+        "difficulty": "medium",
+        "question": "What was the best selling video game in December 2017?",
+        "correct_answer": "Call of Duty: WWII",
+        "incorrect_answers": ["Minecraft", "Call of Duty: Zombies", "PubG"]
+    },
+    {
+        "category": "Sports",
+        "difficulty": "hard",
+        "question": "In 2004, which men’s soccer team didn’t give up a single goal to their opponents?",
+        "correct_answer": "Argentina",
+        "incorrect_answers": ["Brazil", "France", "Croatia"]
+    },
+    {
+        "category": "Mythology",
+        "difficulty": "easy",
+        "question": "Who was the wife of Lord Ram?",
+        "correct_answer": "Sita",
+        "incorrect_answers": ["Sati", "Stai", "Siat"]
+    },
+    {
+        "category": "Maths",
+        "difficulty": "medium",
+        "question": "What is the formula of calculating the volume of a cylinder?",
+        "correct_answer": "πr2h",
+        "incorrect_answers": ["4/3πr3", "πr2h3", "πr2h9"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What percentage of river Nile is located in Egypt?",
+        "correct_answer": "22%",
+        "incorrect_answers": ["100%", "83%", "45%"]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "What is the oldest city of India?",
+        "correct_answer": "Varanasi",
+        "incorrect_answers": ["Ayodhya", "Patna", "Madurai"]
+    },
+    {
+        "category": "General",
+        "difficulty": "medium",
+        "question": "What is the full form of the chatting abbreviation - 'IDTS'",
+        "correct_answer": "I don't think so",
+        "incorrect_answers": [
+            "I danced thinking so",
+            "I don't think such",
+            "I don't think sour"
+        ]
     }
 ]

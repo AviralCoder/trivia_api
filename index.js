@@ -53,6 +53,14 @@ app.get("/contribute/issues", (req, res) => {
     );
 });
 
+app.get("/questions/categories", (req, res) => {
+    res.json(categories);
+});
+
+app.get("/questions/categories/length", (req, res) => {
+    res.send(categories.length);
+});
+
 app.get("/questions/list/index/:index", (req, res) => {
     if (req.params.index > questions.length) {
         res.send("<h1>Index more than the number of questions</h1>");
