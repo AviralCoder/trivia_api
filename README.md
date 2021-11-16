@@ -32,6 +32,8 @@ API - https://trivia-api-kbg.herokuapp.com/
 - `/questions/difficulty/:difficulty/random/number/:number`- Get a number of random questions of any difficulty.
 - `/questions/difficulty/:difficulty/category/:category/number/:number`- Get a number of questions of a particular difficulty and category.
 - `/questions/difficulty/:difficulty/category/:category/random` - Get a random question of any difficulty and category.
+- `/questions/categories/` - An array of all the categories
+- `/questions/categories/length` - Get the number of categories
 
 
 ## Contributing
