@@ -22,7 +22,7 @@ app.use((req, res, next) => {
 });
 
 app.get("/", (req, res) => {
-    res.send("AYO?");
+    res.send("Please add endpoints to the URL. Check docs for more info - github.com/AviralCoder/trivia_api/");
 });
 
 app.get("/questions/random", (req, res) => {
